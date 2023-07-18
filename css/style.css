@@ -1,0 +1,22 @@
+.quotes-gen h1{
+  font-size: 80px;
+  font-weight: 900;
+  font-family: Impact;
+  color: black;
+}
+.quotes-gen p {
+  font-family: 'Times New Roman';
+  font-size: 35px;
+  margin-top: 20px;
+}
+.quotes-gen button{
+  margin-top: 10px;
+padding:  30px 100px;
+background-color: blue;
+color: white;
+  
+}
+.quotes-gen button:hover{
+  background-color: green;
+  
+}
